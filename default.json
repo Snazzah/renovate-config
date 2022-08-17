@@ -19,6 +19,18 @@
       "automerge": true,
       "automergeType": "pr",
       "platformAutomerge": true
+    },
+    {
+      "matchPackagePatterns": ["^@iconify-icons"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "groupName": "all non-major iconify icon dependencies",
+      "groupSlug": "all-iconify-icon-minor-patch",
+      "automerge": true,
+      "automergeType": "pr",
+      "platformAutomerge": true
     }
   ],
   "lockFileMaintenance": {
