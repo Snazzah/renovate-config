@@ -39,7 +39,6 @@
     "automergeType": "branch"
   },
   "schedule": [
-    "before 3am on Monday",
-    "before 3am on Wednesday"
+    "before 3am on Monday"
   ]
 }
